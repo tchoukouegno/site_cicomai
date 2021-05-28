@@ -17,10 +17,12 @@ ul{
 padding:0;
 margin:0;
 list-style:none;
+color: #FFFFFF;
 }
 p{
 padding:0;
 margin:0;
+color: #FFFFFF;
 }
 h1{
 padding:0;
@@ -163,7 +165,7 @@ color:#de5221;
   padding: 20px 20px 65px 40px;
   }
 .center_left .hr_1{
-  border-color:#fff;
+  border-color:#FF0000;
   border-width:2px;
   width:50%;
   float:left;
@@ -182,7 +184,7 @@ margin-top:60px;
 margin-top:10px;  
   }
 .center_left_inner_1 .hr_2{
-  border-color:#fff;
+  border-color:#FF0000;
   border-width:2px;
   width:9%;
   float:left;
